@@ -1,0 +1,3 @@
+# Log2Pg
+
+Copy access.log from Apache to a PostgreSQL database
